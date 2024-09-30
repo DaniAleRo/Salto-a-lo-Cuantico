@@ -1,13 +1,13 @@
 ## Simulación Experimento Doble Rendija
 Este proyecto contiene la simulacion de un sistema probabilistico del Experimento Doble Rendija, desde el punto de vista real y desde el punto de vista cuantico, ademas tambien se simulara este expermento.
 
-- Simulación de Estados con Matriz de Transición
+- Simulación con Matriz de Transición Real.
 En este apartado se modela el comportamiento probabilístico de un sistema utilizando matrices de transición. El código inicializa una matriz de probabilidad y varios estados iniciales (X, X1, X2), la distribucion de las particulas simula el comportamiento de la luz (o partículas) al pasar por un sistema de doble rendija.
 
 
 
 
-- Simulación con Matrices Complejas
+- Simulación con Matriz de Transición Complejaz.
 En esta sección, se utiliza una matriz de transición que que contiene números complejos para simular el comportamiento de las ondas desde el punto de vista cuántico.
 
 
